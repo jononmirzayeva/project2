@@ -1,0 +1,264 @@
+.myHeader {
+    height: 41px;
+    background-color: #343a40;
+  }
+  .myHeaderCon {
+    list-style: none;
+    color: white;
+    padding-right: 8px;
+    padding-left: 28px;
+  }
+  .con {
+    padding-top: 5px;
+  }
+  a {
+    color: #32dbc6;
+  }
+  #header{
+    color: #32dbc6;
+  }
+  #header:hover {
+    color: #115f73;
+    text-decoration: none;
+  }
+  .socialMedia {
+    float: right;
+    color: #32dbc6;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+  }
+  .fab {
+    list-style: none;
+    padding-right: 8px;
+    padding-left: 10px;
+    font-size: 15px;
+  }
+  .forMenyu {
+    width: 100%;
+    background-color: #ffffff;
+    height: 96px;
+    padding: 0px 15px;
+  }
+  .navbar.navbar-expand-sm {
+    padding: 24px 0px !important;
+    width: 100%;
+  }
+  .navbar-brand {
+    font-size: 32px;
+    font-weight: 500;
+  }
+  .navbar-nav {
+    float: right !important;
+  }
+  
+  .navbar-expand-sm .navbar-nav .nav-link {
+    color: #000000 !important;
+    font-size: 16px;
+    padding-right: 40px;
+  }
+  .navbar-expand-sm .navbar-nav .nav-link :hover {
+    color: #32dbc6 !important;
+  }
+  #mainWall {
+    background-image: url(../img/comp.jpeg);
+    height: 600px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .nameCon {
+    color: #32dbc6 !important;
+    font-family: sans-serif;
+  }
+  .number-behind {
+    color: #f2f4f5;
+    font-size: 8rem;
+    font-weight: 800;
+    position: absolute;
+    z-index: -1;
+    left: -3rem;
+    right: -4rem;
+    font-family: "sans-serif", "Helvetica", "BlinkMacSystemFont";
+    top: -68px;
+  }
+  .section {
+    padding: 80px 0px;
+  }
+  .content {
+    margin: 0px 0px 24px;
+    line-height: 1.7;
+    color: #4d4d4d;
+    text-align: justify;
+  }
+  .list {
+    color: #4d4d4d;
+  }
+  .mr {
+    padding: 16px;
+  }
+  
+  .works {
+    padding: 80px 0px;
+  }
+  .our {
+    padding: 0;
+    margin: 0;
+    color: #000000;
+    text-align: center;
+    font-size: 48px;
+    display: block;
+  }
+  .lead {
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+  }
+  .nameCentre {
+    justify-content: center;
+  }
+  .galleryImg {
+    width: 100%;
+    height: 580px;
+  }
+  .worksName {
+    padding: 0px;
+    padding-top: 30px;
+    text-align: center;
+  }
+  .mn {
+    text-align: center;
+  }
+  body {
+    font-family: "Baloo 2" !important;
+    line-height: 1.7;
+  }
+  .info {
+    margin: 0px 0px 80px;
+  }
+  .give {
+    padding: 30px;
+    font-size: 16px;
+  }
+  .getInfo {
+    margin-left: -15px;
+    margin-right: -15px;
+    background-color: #000000;
+  }
+  .dev {
+    color: #737373;
+    margin: 0px 0px 48px;
+  }
+  .nameTitle {
+    margin: 0px 0px 68px;
+  }
+  .items {
+    margin: 0px -15px;
+    font-size: 16px;
+  }
+  .state {
+    font-size: 18px;
+    color: #ffffff;
+  }
+  .aread {
+    text-decoration: underline;
+    color: #ffffff;
+    font-size: 16px;
+  }
+  .avto {
+    padding: 0px 15px;
+    margin: 20px 0px 0px 92px;
+  }
+  .icon {
+    padding: 4px;
+    font-size: 25px;
+  }
+  .two {
+    margin-top: 20px;
+  }
+  .test {
+   margin: 0 auto !important;
+    max-width: 800px;
+    text-align: center;
+  }
+  .titleStaffs {
+    text-align: center !important;
+    font-size: 48px;
+    padding: 0px 0px 20px;
+    color: #000000;
+    font-family: "Baloo 2" !important;
+    margin: 0px -15px 0px !important;
+  }
+  .def {
+    font-size: 24px;
+    margin: 0px 0px 24px;
+    text-align: center;
+    font-family: "Baloo 2" !important;
+    font-style: italic;
+  }
+  .infoStuff {
+    border-radius: 50%;
+    font-size: 2px;
+    height: 50px;
+    width: 50px;
+    margin: 0px 25px 16px;
+  }
+  .surname{
+  margin: 0px 0px 24px !important;
+  font-size: 16px;
+  
+  }
+  .stuffs{
+    text-align: center;
+  }
+  
+  .indicators-li{
+    background-color: lightgray !important;
+    height: 10px !important;
+    width: 10px !important;
+    border-radius: 5px;
+    margin-left: 5px;
+    display: inline-block;
+    
+  }
+  .carDiv.active{
+    background: lightskyblue !important;
+  }
+  .TypeSer{
+   padding: 80px 0px; 
+  }
+  .service{
+  text-align: center;
+  font-size: 48px;
+  padding: 0px 0px 20px;
+  margin: 0px;
+  }
+  .serItem{
+    font-size: 20px;
+    margin: 0px 0px 8px;
+  }
+  .defSer{
+    text-align: justify;
+    margin: 0px 0px 40px;
+  }
+  .more{
+    color: #32dbc6 !important;
+  }
+  .allSer{
+    padding: 0px 15px;
+    margin: 0px 0px 24px;
+  }
+  .icons{
+  font-size: 40px;
+  color: #32dbc6;
+  } 
+  .iconsState{
+    display: inline-block;
+  }
+  .textState{
+    display: inline-block;
+  }
+  
